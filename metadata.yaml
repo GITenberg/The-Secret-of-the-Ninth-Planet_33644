@@ -1,0 +1,35 @@
+_repo: The-Secret-of-the-Ninth-Planet_33644
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33644-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wollheim, Donald A.
+    alias: Wollheim, Donald Allen
+    birthdate: 1914
+    deathdate: 1990
+    gutenberg_agent_id: '36516'
+    url: http://www.gutenberg.org/2009/agents/36516
+description: '"When it is discovered that a series of alien installations is destabilizing
+  the sun, the experimental spaceship Magellan is called on to disable them before
+  the sun goes nova. On an incredible voyage of exploration, the Magellan and her
+  intrepid crew travels from one end of the solar system to the other, facing new
+  dangers with every landing. But to stop the aliens from implementing their plans
+  for destruction, they must venture out to the planet Pluto and discover... The secret
+  of the ninth planet." --back cover.'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pluto (Dwarf planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Secret of the Ninth Planet
+url: http://www.gutenberg.org/ebooks/33644
